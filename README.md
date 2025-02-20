@@ -48,5 +48,5 @@ The goal is to analyze news articles, global trends, and Wikipedia summaries eff
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/KING-258/BDA_Mini
-   cd BDA_Mini
+   git clone https://github.com/KING-258/BigDataAnalytics
+   cd BigDataAnalytics
